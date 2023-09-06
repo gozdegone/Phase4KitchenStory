@@ -1,0 +1,80 @@
+<br />
+<main>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <h2 class="text-center text-white bg-dark">All Grocery Products</h2>
+        <div class="table-responsive">
+          <table
+            class="table table-dark table-striped table-bordered table-hover"
+          >
+            <thead class="thead-dark text-center">
+              <tr>
+                <th>S.No.</th>
+                <th>Product Id</th>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Ingredient</th>
+                <th>Price</th>
+                <th>Manufacturer</th>
+                <th>Quantity</th>
+                <th>Country Origin</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody class="text-center">
+              <tr *ngFor="let product of allProducts">
+                <td></td>
+                <td>
+                  <span>{{ product.pid }}</span>
+                </td>
+                <td>
+                  <span>{{ product.name }}</span>
+                </td>
+                <td>
+                  <span>{{ product.category }}</span>
+                </td>
+                <td>
+                  <span>{{ product.ingredient }}</span>
+                </td>
+                <td>
+                  <span>{{ product.price }}</span>
+                </td>
+                <td>
+                  <span>{{ product.brand }}</span>
+                </td>
+                <td>
+                  <span>{{ product.quantity }}</span>
+                </td>
+                <td>
+                  <span>{{ product.origin }}</span>
+                </td>
+
+                <td>
+                  <div
+                    class="btn-group"
+                    role="group"
+                    aria-label="Action Buttons"
+                  >
+                    <button
+                      (click)="deleteProduct(product.id)"
+                      class="btn btn-danger"
+                    >
+                      Delete
+                    </button>
+                    <button
+                      (click)="updateProduct(product.id)"
+                      class="btn btn-info"
+                    >
+                      Update
+                    </button>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>

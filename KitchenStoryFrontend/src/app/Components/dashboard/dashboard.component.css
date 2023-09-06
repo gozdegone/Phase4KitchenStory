@@ -1,0 +1,19 @@
+.admin-menu-bg-one {
+    background-color: #ffa500;
+}
+
+.admin-menu-bg-two {
+    background-color: rgb(0, 255, 149);
+}
+
+.admin-menu-bg-three {
+    background-color: #9000ff;
+}
+
+.action-btn{
+    background-color: gray;
+}
+
+.action-btn b{
+    color: white;
+}

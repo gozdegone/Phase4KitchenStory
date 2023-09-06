@@ -1,0 +1,42 @@
+_class;_id;name;brand;category;ingredient;origin;pid;price;quantity
+com.kitchenstory.entities.Product;a0e5e8dc-2b1b-11ee-be56-0242ac120002;Amul Ghee;Amul Cooperative Society;Staples;Vegetarian;India;ST11201;550;1 Ltr
+com.kitchenstory.entities.Product;a0e5ebac-2b1b-11ee-be56-0242ac120002;Amul Cheese;Amul Cooperative Society;Dairy & Bakery;Vegetarian;India;DI11401;350;350g
+com.kitchenstory.entities.Product;a0e5ed00-2b1b-11ee-be56-0242ac120002;Ashirwad Ghee;ITC Ltd.;Staples;Vegetarian;India;ST11202;560;1 Ltr
+com.kitchenstory.entities.Product;a0e5ee68-2b1b-11ee-be56-0242ac120002;Everyday Ghee;Nestle India Ltd.;Staples;Vegetarian;India;ST11203;450;1 Ltr
+com.kitchenstory.entities.Product;a0e5efa8-2b1b-11ee-be56-0242ac120002;Goverdhan Ghee;Goverdhan Ghee Ltd.;Staples;Vegetarian;India;ST11204;600;1 Ltr
+com.kitchenstory.entities.Product;a0e5f106-2b1b-11ee-be56-0242ac120002;Mother Dairy Ghee;Mother Dairy Ltd.;Staples;Vegetarian;India;ST11205;545;1 Ltr
+com.kitchenstory.entities.Product;a0e5f25a-2b1b-11ee-be56-0242ac120002;Patanjali Cow Ghee;Patanjali Ltd.;Staples;Vegetarian;India;ST11204;565;1 Ltr
+com.kitchenstory.entities.Product;a0e5f656-2b1b-11ee-be56-0242ac120002;Tender Coconut (1 pc);Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11211;45;900g
+com.kitchenstory.entities.Product;a0e5f7be-2b1b-11ee-be56-0242ac120002;Apple Indian;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11212;139;6 Pc
+com.kitchenstory.entities.Product;a0e5f8f4-2b1b-11ee-be56-0242ac120002;Apple Royal Gala;Reliance fresh;Fruits & Vegetables;Vegetarian;New Zealand;FV11214;159;4 Pc
+com.kitchenstory.entities.Product;a0e5fa0c-2b1b-11ee-be56-0242ac120002;Apple Red Delicious;Reliance fresh;Fruits & Vegetables;Vegetarian;USA;FV11215;189;4 Pc
+com.kitchenstory.entities.Product;a0e5fb2e-2b1b-11ee-be56-0242ac120002;Banana Robusta;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11216;45;6 Pc
+com.kitchenstory.entities.Product;a0e5fc50-2b1b-11ee-be56-0242ac120002;Banana Yellaki;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11217;95;12 Pc
+com.kitchenstory.entities.Product;a0e5fd68-2b1b-11ee-be56-0242ac120002;Banana Nendran;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11218;120;4 Pc
+com.kitchenstory.entities.Product;a0e60178-2b1b-11ee-be56-0242ac120002;Banana Red;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11219;129;4 Pc
+com.kitchenstory.entities.Product;a0e6033a-2b1b-11ee-be56-0242ac120002;Onion;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11221;29;1 Kg
+com.kitchenstory.entities.Product;a0e60484-2b1b-11ee-be56-0242ac120002;Potato per kg;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11222;32;1 Kg
+com.kitchenstory.entities.Product;a0e605b0-2b1b-11ee-be56-0242ac120002;Onion Pack;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11223;140;5 Kg
+com.kitchenstory.entities.Product;a0e606d2-2b1b-11ee-be56-0242ac120002;Potato Low Sugar;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11224;88;2 Kg
+com.kitchenstory.entities.Product;a0e6081c-2b1b-11ee-be56-0242ac120002;Sweet Potato;Reliance fresh;Fruits & Vegetables;Vegetarian;India;FV11225;29;500g
+com.kitchenstory.entities.Product;a0e60952-2b1b-11ee-be56-0242ac120002;Toned Milk;Mother Dairy Ltd.;Dairy & Bakery;Vegetarian;India;FV11226;26;500 ml
+com.kitchenstory.entities.Product;a0e60aba-2b1b-11ee-be56-0242ac120002;Full Cream Milk;Mother Dairy Ltd.;Dairy & Bakery;Vegetarian;India;FV11227;32;500 ml
+com.kitchenstory.entities.Product;a0e60efc-2b1b-11ee-be56-0242ac120002;Taaza Toned Milk;Amul Cooperative Society;Dairy & Bakery;Vegetarian;India;FV11228;26;500 ml
+com.kitchenstory.entities.Product;a0e610dc-2b1b-11ee-be56-0242ac120002;Taaza Full Cream Milk;Amul Cooperative Society;Dairy & Bakery;Vegetarian;India;FV11229;32;500 ml
+com.kitchenstory.entities.Product;a0e6121c-2b1b-11ee-be56-0242ac120002;Moti Toned Milk;Amul Cooperative Society;Dairy & Bakery;Vegetarian;India;FV11230;30;500 ml
+com.kitchenstory.entities.Product;a0e6133e-2b1b-11ee-be56-0242ac120002;Rice Bran Oil;Sarvottam Ltd.;Staples;Vegetarian;India;ST11210;140;1 Ltr
+com.kitchenstory.entities.Product;a0e6147e-2b1b-11ee-be56-0242ac120002;Fortune Sunlite Oil;Fortune;Staples;Vegetarian;India;ST11211;160;1 Ltr
+com.kitchenstory.entities.Product;a0e61640-2b1b-11ee-be56-0242ac120002;Fortune Soybean Oil;Fortune;Staples;Vegetarian;India;ST11212;155;1 Ltr
+com.kitchenstory.entities.Product;a0e617bc-2b1b-11ee-be56-0242ac120002;Dhara Sunflower Oil;Mother Dairy Ltd.;Staples;Vegetarian;India;ST11214;155;1 Ltr
+com.kitchenstory.entities.Product;a0e61c62-2b1b-11ee-be56-0242ac120002;Dhara Soybean Oil;Mother Dairy Ltd.;Staples;Vegetarian;India;ST11215;140;1 Ltr
+com.kitchenstory.entities.Product;a0e62004-2b1b-11ee-be56-0242ac120002;Tata Sampann Toor Dal;TATA;Staples;Vegetarian;India;ST11216;140;1 Kg
+com.kitchenstory.entities.Product;a0e6219e-2b1b-11ee-be56-0242ac120002;Tata Sampann Chana Dal;TATA;Staples;Vegetarian;India;ST11221;130;1 Kg
+com.kitchenstory.entities.Product;a0e62518-2b1b-11ee-be56-0242ac120002;Tata Sampann Dal Besan;TATA;Staples;Vegetarian;India;ST11218;95;1 Kg
+com.kitchenstory.entities.Product;a0e62644-2b1b-11ee-be56-0242ac120002;Tata Sampann Moong Dal;TATA;Staples;Vegetarian;India;ST11219;134;1 Kg
+com.kitchenstory.entities.Product;a0e62752-2b1b-11ee-be56-0242ac120002;Tata Sampann Urad Dal;TATA;Staples;Vegetarian;India;ST11220;143;1 Kg
+com.kitchenstory.entities.Product;a0e6286a-2b1b-11ee-be56-0242ac120002;Aashirvaad Select Sharbati Atta;ITC Ltd.;Staples;Vegetarian;India;ST11221;285;5 Kg
+com.kitchenstory.entities.Product;a0e62982-2b1b-11ee-be56-0242ac120002;Aashirvaad Multigrain Atta;ITC Ltd.;Staples;Vegetarian;India;ST11222;300;5 Kg
+com.kitchenstory.entities.Product;a0e6301c-2b1b-11ee-be56-0242ac120002;Fortune Atta;Fortune;Staples;Vegetarian;India;ST11223;275;5 Kg
+com.kitchenstory.entities.Product;a0e63166-2b1b-11ee-be56-0242ac120002;Fortune Multigrain Atta;Fortune;Staples;Vegetarian;India;ST11224;290;5 Kg
+com.kitchenstory.entities.Product;a0e6327e-2b1b-11ee-be56-0242ac120002;Patanjali Multigrain Atta;Patanjali Ltd.;Staples;Vegetarian;India;ST11226;350;5 Kg
+com.kitchenstory.entities.Product;a0e63396-2b1b-11ee-be56-0242ac120002;Patanjali Atta;Patanjali Ltd.;Staples;Vegetarian;India;ST11227;300;5 Kg
